@@ -331,7 +331,7 @@ sudo pacman -S base-devel
 ### Compilation
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/vikrant-udp-traffic-generator.git
+git clone https://github.com/vikrantproject/vikrant-udp-traffic-generator.git
 cd vikrant-udp-traffic-generator
 
 # Compile sender
